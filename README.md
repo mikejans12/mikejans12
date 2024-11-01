@@ -31,7 +31,8 @@ This lab demonstrates the use of touch-first approach and media query to create 
 Lab 3 - BBC New Navigation (webdu-lab-3)
 This lab demonstrates progressive navigation using media queries.
 
-Lab 4 - 
+Lab 4 - 2 Dimensional Layout
+This lab demonstrates 2 Dimensional Layout throughout the whole webpage.
 
 Something Big Gallery - Homepage (webdu2-assignment-1)
 This mock-up website is for an art gallery called Something Big Gallery where people can experience exhibits and discover artists.
